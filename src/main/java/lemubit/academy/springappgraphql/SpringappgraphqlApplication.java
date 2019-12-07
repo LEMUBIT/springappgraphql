@@ -12,6 +12,7 @@ public class SpringappgraphqlApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringappgraphqlApplication.class, args);
+        String x = "";
     }
 
 }
